@@ -1,0 +1,170 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.top {
+    width: 100%;
+}
+
+.style {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+/* .buttonErea01 {
+    width: 100%;
+} */
+
+.buttonErea {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    z-index: 5;
+   width: 100%;
+}
+/* 
+.btn01{
+    width: 49.2%;
+    /* bottom: 20px;  
+}
+
+.btn02{
+    width: 49.2%;
+} */
+
+.buttonErea02 {
+    width: 100%;
+}
+
+.contents01 {
+    width: 100%;
+}
+
+.contents1 {
+    width: 100%;
+}
+
+
+
+/* ＝＝＝＝＝ここをコピー＝＝＝＝＝ */
+
+/* .contents02 {
+    position: relative;
+}
+
+.contents2 {
+    width: 100%;
+}
+
+.position02 {
+    position: absolute;
+    top: 92%;
+    left: 23%;
+}
+
+.button02 {
+    width: 75%;
+} */
+
+/* ＝＝＝＝＝＝＝＝＝＝＝＝＝＝ */
+
+
+.contents02 {
+    position: relative;
+}
+
+.contents2 {
+    width: 100%;
+}
+
+.position0201 {
+    position: absolute;
+    top: 13%;
+    left: 14%;
+}
+
+.button01 {
+    width: 95.5%;
+}
+
+.position0202 {
+    position: absolute;
+    top: 32%;
+    left: 14%;
+}
+
+.button02 {
+    width: 95.5%;
+}
+
+.position0203 {
+    position: absolute;
+    top: 44%;
+    left: 14%;
+}
+
+.button03 {
+    width: 95.5%;
+}
+
+.position0204 {
+    position: absolute;
+    top: 58.2%;
+    left: 72%;
+}
+
+.button04 {
+    width: 95.5%;
+}
+
+.position0205 {
+    position: absolute;
+    top: 65.5%;
+    left: 72%;
+}
+
+.button05 {
+    width: 95.5%;
+}
+
+.position0206 {
+    position: absolute;
+    top: 72.4%;
+    left: 72%;
+}
+
+.button06 {
+    width: 95.5%;
+}
+
+.position0207 {
+    position: absolute;
+    top: 89%;
+    left: 5%;
+}
+
+.button07 {
+    width: 100%;
+}
+
+
+
